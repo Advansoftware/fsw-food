@@ -5,7 +5,7 @@ import Search from "./search";
 
 const Header = () => {
   return (
-    <div className="flex justify-between pt-6">
+    <div className="flex justify-between px-4 pt-6">
       <Image src="/Logo.png" alt="Logo" height={30} width={100} />
       <Button
         size="icon"
