@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Header from "./_components/header";
+import Header from "./_components/Header";
 import Search from "./_components/search";
 import CategoryList from "./_components/category-list";
 import ProductsList from "./_components/products-list";
